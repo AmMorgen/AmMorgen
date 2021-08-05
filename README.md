@@ -1,9 +1,5 @@
-## Olá!! Eu sou o Marlon Manhães!
-
-- 🌱 Estudando c# e javascript
-- 😄 Pronouns: Ele/dele (he/him)
-
-<div style="display: inline_block">
+## Olá!! Eu sou o Marlon Manhães
+<div>
   <a href="https://github.com/AmMorgen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmMorgen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmMorgen&layout=compact&langs_count=7&theme=tokyonight"/>
